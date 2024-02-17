@@ -1,0 +1,16 @@
+# comment
+
+# as file 
+index.html
+
+# as file in root dir
+/root.html
+
+# as files in a dir
+dir/
+
+# wildcard
+*/*.css
+
+############
+secret.txt
