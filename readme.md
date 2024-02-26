@@ -1,7 +1,7 @@
 ## 作業者の動き
 https://docs.github.com/ja/get-started/using-github/github-flow
 https://qiita.com/satohiro/items/7d5abde24222e6026d3d
-
+![alt text](image.png)
 - clone
 - pull
 - branch
