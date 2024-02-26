@@ -9,7 +9,7 @@ https://qiita.com/satohiro/items/7d5abde24222e6026d3d
 - pull request
 
 - checkout
-
+ｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘｘ
 任意のコミット時の状態に復元したい場合
 
 ## rule
